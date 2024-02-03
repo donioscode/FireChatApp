@@ -12,7 +12,6 @@ import FirebaseFirestore
 
 
 class ChatViewController: UIViewController {
-
     @IBOutlet weak var tableview: UITableView!
     
     @IBOutlet weak var messageTF: UITextField!
@@ -24,6 +23,7 @@ class ChatViewController: UIViewController {
         navigationItem.setHidesBackButton(true, animated: true)
         tableview.register(UINib(nibName: "MessageTableViewCell", bundle: nil) ,forCellReuseIdentifier: "messageCell")
         tableview.dataSource = self
+        tableview.reloadData()
         loadMessagesFromFB()
 
     }

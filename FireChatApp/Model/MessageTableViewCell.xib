@@ -20,7 +20,7 @@
                     <stackView opaque="NO" contentMode="scaleToFill" spacing="207" translatesAutoresizingMaskIntoConstraints="NO" id="2Yf-4U-Oef">
                         <rect key="frame" x="5" y="10" width="328" height="42"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="zari" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="e0c-qe-VA6">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="you" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="e0c-qe-VA6">
                                 <rect key="frame" x="0.0" y="0.0" width="61" height="42"/>
                                 <color key="backgroundColor" systemColor="systemPurpleColor"/>
                                 <constraints>
@@ -49,7 +49,7 @@
                                     <constraint firstItem="bNt-id-AWL" firstAttribute="leading" secondItem="uMW-fZ-i53" secondAttribute="leading" id="eaR-Ob-XXf"/>
                                 </constraints>
                             </view>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="beku" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oUf-pp-qxS">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="me" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oUf-pp-qxS">
                                 <rect key="frame" x="267" y="0.0" width="61" height="42"/>
                                 <color key="backgroundColor" systemColor="systemPurpleColor"/>
                                 <constraints>
